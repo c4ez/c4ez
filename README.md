@@ -46,11 +46,11 @@
   - Literally Everything. 
 <br>
 <h2> Skills:</h2>
-<a href= https://github.com/ > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/ > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/ > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/ > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/ > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/ > <img width ='30px' alt="android" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/ > <img width ='30px' alt="java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/ > <img width ='30px' alt="html" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/ > <img width ='30px' alt="css" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/ > <img width ='30px' alt="git" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <br>
   
 <h2> Languages: </h2>
@@ -60,7 +60,7 @@
 <br>
 <h2 align = "left"> Statistics: </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&hideBorder)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&hideBorder)](https://git.io/streak-stats)
 <br>
 
 <h2 align = "left"> Humour: </h2>
