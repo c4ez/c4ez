@@ -55,12 +55,12 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4ez&theme=gotham&layout=compact&border_radius=10"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4ez&theme=gotham&layout=compact&hideBorder"/></a>
 <br>
 <br>
 <h2 align = "left"> Statistics: </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&hideBorder)](https://git.io/streak-stats)
 <br>
 
 <h2 align = "left"> Humour: </h2>
