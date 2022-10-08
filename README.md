@@ -55,13 +55,14 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwofic&theme=buefy&border_radius=10"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4ez&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
-<h2> Statistics: </h2>
+<h2 align = "left"> Statistics: </h2>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&border_radius=4)](https://git.io/streak-stats)
 <br>
-<br>
+
 <h2 align = "left"> Humour: </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&hideBorder)
