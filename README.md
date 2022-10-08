@@ -65,5 +65,5 @@
 
 <h2 align = "left"> Humour: </h2>
 
-<div align = "center">![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&hideBorder)</p>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=graywhite&hideBorder)
 <br>
