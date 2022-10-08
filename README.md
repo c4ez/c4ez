@@ -60,7 +60,7 @@
 <br>
 <h2 align = "left"> Statistics: </h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&hideBorder)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&hideBorder)](https://git.io/streak-stats)
 <br>
 
 <h2 align = "left"> Humour: </h2>
