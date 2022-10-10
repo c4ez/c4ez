@@ -45,6 +45,10 @@
   - Science: Electricity and Electronics, Physical Chemistry, Optics.
   - Literally Everything. 
 <br>
+<h2> Now Playing:</h2>
+<a href="https://open.spotify.com/user/31cv43szvcpcf2o6m66mpmuaqmfi" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cv43szvcpcf2o6m66mpmuaqmfi&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a>
+<br>
+
 <h2> Skills:</h2>
 <a href= https://github.com/ > <img width ='30px' alt="android" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/ > <img width ='30px' alt="java" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
