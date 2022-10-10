@@ -45,7 +45,8 @@
   - Science: Electricity and Electronics, Physical Chemistry, Optics.
   - Literally Everything. 
 <br>
-<h2> Now Playing:</h2>
+<h2 align = "left"> Now Playing: </h2>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cv43szvcpcf2o6m66mpmuaqmfi&cover_image=true&theme=compact&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
