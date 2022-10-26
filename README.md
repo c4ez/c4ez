@@ -35,7 +35,7 @@
   
   <h3> Current </h3>
   
-  - EvolutionX Unofficial Maintainer for Redmi Note 8 Pro.
+  - LineageOS, xDroid Unofficial Maintainer for Redmi Note 8 Pro.
   - Learning C and Java.
 
   <h3> Interests </h3>
