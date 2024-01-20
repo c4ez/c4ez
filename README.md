@@ -1,7 +1,7 @@
 <b>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h3>🤖 Hi, I'm Anand. 🤖</h3>
+<h3>🤖 Hi, I'm Sourish. 🤖</h3>
 <h4>A Passionate Student/Developer from India.</h4> 
 </div>
 
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center" id="social">
-  <a href="https://linkedin.com/in/sourish-bhat-366b0a223">
+  <a href="https://linkedin.com/in/sourishbhat">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://reddit.com/u/Creator_Gamer">
@@ -35,15 +35,14 @@
   
   <h3> Current </h3>
   
-  - LineageOS, xDroid Unofficial Maintainer for Redmi Note 8 Pro.
-  - Learning C and Java.
+  - LineageOS, xDroid Ex-Unofficial Maintainer for Redmi Note 8 Pro and Realme X
+  - Learning C and Python.
 
   <h3> Interests </h3>
   
-  - Projects, School Work, Photography, Badminton, Football.
+  - Projects: Aerospace, Photography, Badminton.
   - Movies: Sci-fi, Thriller, Romance, Fantasy.
-  - Science: Electricity and Electronics, Physical Chemistry, Optics.
-  - Literally Everything. 
+  - Science: Aerodynamics, Fluid Mechanism, Propulsion, Number Theory.
 <br>
 <h2 align = "left"> Now Playing: </h2>
 
