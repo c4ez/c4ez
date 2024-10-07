@@ -46,7 +46,7 @@
 <br>
 <h2 align = "left"> Now Playing: </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cv43szvcpcf2o6m66mpmuaqmfi&cover_image=true&theme=compact&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cv43szvcpcf2o6m66mpmuaqmfi&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cv43szvcpcf2o6m66mpmuaqmfi&redirect=true)
 <br>
 
 <h2> Skills:</h2>
