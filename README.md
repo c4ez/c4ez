@@ -59,7 +59,7 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4ez&theme=gotham&layout=compact&hideBorder"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourishbhat&theme=gotham&layout=compact&hideBorder"/></a>
 <br>
 <br>
 <h2 align = "left"> Statistics: </h2>
