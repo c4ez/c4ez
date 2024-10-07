@@ -9,7 +9,7 @@
   <a href="https://facebook.com/Anand.Bhat07">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://instagram.com/uraa_c4">
+  <a href="https://instagram.com/sourishbhat">
     <img src="https://img.shields.io/badge/Instagram-critical?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
     <a href="https://reddit.com/u/Creator_Gamer">
     <img src="https://img.shields.io/badge/Reddit-critical?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-  <a href="https://t.me/c4ezpz">
+  <a href="https://t.me/sourishbhat">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -64,7 +64,7 @@
 <br>
 <h2 align = "left"> Statistics: </h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c4ez&theme=gotham&hideBorder)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sourishbhat&theme=dark&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 <h2 align = "left"> Humour: </h2>
